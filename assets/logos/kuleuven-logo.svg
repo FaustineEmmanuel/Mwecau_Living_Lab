@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 110" width="300" height="110">
+  <!-- KU Leuven logo - simplified version -->
+  
+  <!-- Background -->
+  <rect width="300" height="110" fill="white"/>
+  
+  <!-- Main logo color -->
+  <g fill="#1D60AE">
+    <!-- K letter -->
+    <path d="M30,20 h12 v25 l25,-25 h15 l-25,25 l25,45 h-15 l-18,-35 l-7,7 v28 h-12 z"/>
+    
+    <!-- U letter -->
+    <path d="M95,20 h12 v50 q0,10 10,10 t10,-10 v-50 h12 v50 q0,20 -22,20 t-22,-20 z"/>
+  </g>
+  
+  <!-- Text "LEUVEN" in a smaller size -->
+  <text x="150" y="90" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1D60AE">LEUVEN</text>
+  
+  <!-- Stylized divider -->
+  <line x1="85" y1="55" x2="215" y2="55" stroke="#1D60AE" stroke-width="2"/>
+</svg>
